@@ -1,1 +1,4 @@
-# lol.py
+
+git hub https://github.com/M-niki0/lol.py
+cd lol.py
+python lol.py
